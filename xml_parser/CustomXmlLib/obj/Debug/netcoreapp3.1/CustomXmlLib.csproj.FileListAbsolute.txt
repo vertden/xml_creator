@@ -1,0 +1,9 @@
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\bin\Debug\netcoreapp3.1\CustomXmlLib.deps.json
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\bin\Debug\netcoreapp3.1\CustomXmlLib.dll
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\bin\Debug\netcoreapp3.1\CustomXmlLib.pdb
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.AssemblyInfoInputs.cache
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.AssemblyInfo.cs
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.csproj.CoreCompileInputs.cache
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.dll
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.pdb
+D:\Documents\БГУИР\ССП_ч2\lab3\xml_parser\CustomXmlLib\obj\Debug\netcoreapp3.1\CustomXmlLib.csprojAssemblyReference.cache

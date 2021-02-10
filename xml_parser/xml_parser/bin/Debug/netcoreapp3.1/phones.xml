@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+  <phone>
+    <manufactured>Samsung</manufactured>
+    <model>A8</model>
+    <year>2018</year>
+  </phone>
+  <phone>
+    <manufactured>Samsung</manufactured>
+    <model>A50</model>
+    <year>2019</year>
+  </phone>
+  <phone>
+    <manufactured>Iphone</manufactured>
+    <model>6</model>
+    <year>2015</year>
+  </phone>
+</phones>
